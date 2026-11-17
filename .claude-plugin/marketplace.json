@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "day-trader-plus",
+  "description": "Day Trader Plus: a fork of Jake Schincariol's day-trader-skill with a trade journal",
+  "owner": {
+    "name": "AlpBozkurt280",
+    "url": "https://github.com/AlpBozkurt280"
+  },
+  "plugins": [
+    {
+      "name": "day-trader-plus",
+      "description": "Twelve Claude skills for day trading: a chart scanner, a news monitor, an entry timer, an exit planner, a time machine that replays 10,000 sessions, a risk manager, a budget manager, an order executor (paper by default, never without your yes), price alerts, an earnings analyst, a Pelosi tracker and a trade journal.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/AlpBozkurt280/day-trader-plus"
+    }
+  ]
+}

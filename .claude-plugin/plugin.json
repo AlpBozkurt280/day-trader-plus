@@ -1,0 +1,23 @@
+{
+  "name": "day-trader-plus",
+  "description": "12 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, replay every outcome before you risk a dollar, and journal every trade.",
+  "version": "2.1.0",
+  "author": {
+    "name": "AlpBozkurt280",
+    "url": "https://github.com/AlpBozkurt280"
+  },
+  "homepage": "https://github.com/AlpBozkurt280/day-trader-plus",
+  "repository": "https://github.com/AlpBozkurt280/day-trader-plus",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "day-trading",
+    "stock-market",
+    "backtesting",
+    "opening-range-breakout",
+    "paper-trading",
+    "trade-journal"
+  ],
+  "skills": "./"
+}
